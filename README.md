@@ -1,4 +1,6 @@
-# Hn
+# Curso UTN 'Desarrollo con Angular' - Unidad 1 - Trabajo práctico Unidad N° 1 (optativo)
+
+A simple application to learn the basics of Angular two-way binding: write something in a field and it will be reflected in the page in real time.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
